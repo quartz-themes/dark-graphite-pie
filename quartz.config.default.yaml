@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: dark-graphite-pie
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: v5.quartz-1h4.pages.dev
+  baseUrl: quartz-themes.github.io/dark-graphite-pie
   ignorePatterns:
     - private
     - templates
